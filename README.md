@@ -8,4 +8,7 @@ You can be inspired by this team to create your own, or have it play against you
 - Launch the compilation with : make all
 - Run the simulation with : ./demo
 
+## Results
+![](https://github.com/thiouneEtu/soccer_bots_ia/blob/main/resultImg.PNG)
+
 ## Thanks :)
